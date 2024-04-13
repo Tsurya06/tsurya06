@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suryakant Tripathi and I'm a SDE1 @Unorg</h2>
+<h2 align="left">Hi 👋! My name is Suryakant Tripathi and I'm a SDE @Unorg</h2>
 
 ###
 
