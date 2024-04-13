@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/embed/hFjJh67sGixO4qXTH3)"  />
-<iframe src="https://giphy.com/embed/hFjJh67sGixO4qXTH3" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iQiyiOfficial-anime-attack-on-titan-eren-hFjJh67sGixO4qXTH3">via GIPHY</a></p>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrdDM5ZTR4eHlsMWd5anRhNzRidnFqa29iZTRsNGZ1cjR2NHI3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hFjJh67sGixO4qXTH3/giphy.gif"  />
 
 ###
 
