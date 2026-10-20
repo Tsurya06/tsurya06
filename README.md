@@ -3,7 +3,7 @@
   # Hi there, I'm Suryakant Tripathi 👋
 
   <a href="https://tsurya06.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Frontend+Software+Engineer;React.js+%26+TypeScript+Specialist;Core+Web+Vitals+%26+Performance;Micro-Frontends+%26+Enterprise+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Frontend+Software+Engineer;React.js+%26+TypeScript+Developer;Building+Clean+%26+Fast+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,15 +25,14 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Role:** Frontend Software Engineer (3.8+ Years Experience)
-- 🎯 **Primary Stack:** React.js, TypeScript, Next.js, Redux Toolkit, Micro-Frontends
-- ⚡ **Engineering Focus:** Sub-second FCP/LCP, 100/100 Lighthouse standards, zero layout shifts, and bulletproof accessibility (WCAG 2.1)
-- 🔭 **Currently Building:** High-performance web applications, interactive UI systems, and enterprise design systems
-- 💬 **Ask Me About:** React 19, TypeScript architecture, state orchestration, and real-time WebSocket UIs
-- 🏆 **Recent Milestone:** Achieved straight **100/100/100/100** scores on Google Lighthouse for [Surya.dev](https://tsurya06.github.io/portfolio/)
+- 💼 **Role:** Frontend Software Engineer with 3.8+ years of experience
+- 🎯 **What I do:** Building clean, responsive, and user-friendly web apps using **React** and **TypeScript**
+- 🚀 **What I care about:** Writing clean code, smooth user experiences, and fast-loading web applications
+- 💬 **Ask me about:** React.js, JavaScript, TypeScript, CSS, and frontend development
+- 🌐 **My Portfolio:** Check out my work and live projects at **[Surya.dev](https://tsurya06.github.io/portfolio/)**
 
 <div align="center">
-  <img height="140" src="https://i.giphy.com/hFjJh67sGixO4qXTH3.webp" alt="Anime coding gif" />
+  <img height="140" src="https://i.giphy.com/hFjJh67sGixO4qXTH3.webp" alt="Coding gif" />
 </div>
 
 ---
@@ -42,12 +41,12 @@
 
 <div align="center">
 
-#### Frontend & UI Engineering
+#### Frontend & UI
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,tailwind,html,css&theme=dark" alt="Frontend Stack" />
 </a>
 
-#### Tooling, Performance & Testing
+#### Tools & Platforms
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vite,jest,webpack,git,github,npm,postman&theme=dark" alt="Tools & Testing" />
 </a>
@@ -67,11 +66,11 @@
   <tr>
     <td width="60%">
       <h3>⚡ Frontend Forge</h3>
-      <p>A specialized frontend engineering platform dedicated to web performance, UI system design, and interactive React 19 benchmarks.</p>
+      <p>A personal engineering platform exploring modern React components, frontend performance, and clean design patterns.</p>
       <p>
-        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Core%20Web%20Vitals-00d4aa?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
       <a href="https://tsurya06.github.io/frontend-forge/" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; 
       <a href="https://github.com/Tsurya06/frontend-forge" target="_blank"><b>💻 GitHub Repo</b></a>
@@ -86,7 +85,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
@@ -101,6 +100,6 @@
 ---
 
 <div align="center">
-  <p><i>"The best code is the code that is resilient, accessible, and fast."</i></p>
-  <b><a href="https://tsurya06.github.io/portfolio/">Explore Surya.dev ➔</a></b>
+  <p><i>"The best code is clean, readable, and fast."</i></p>
+  <b><a href="https://tsurya06.github.io/portfolio/">Visit Surya.dev ➔</a></b>
 </div>
